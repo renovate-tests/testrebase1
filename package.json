@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "babel-core": "7.0.0-0",
+    "babel-core": "6.26.3",
     "chalk": "2.0.0",
     "left-pad": "1.0.0"
     },
